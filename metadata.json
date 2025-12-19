@@ -1,0 +1,5 @@
+{
+  "name": "GitLens AI - Repository Analyzer",
+  "description": "A sophisticated dashboard that links and analyzes GitHub repositories using Gemini 3. It provides AI-powered insights, technical debt analysis, and project health summaries based on repository metadata and structure.",
+  "requestFramePermissions": []
+}
